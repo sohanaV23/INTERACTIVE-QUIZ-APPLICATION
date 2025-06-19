@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Quiz App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="quiz-container">
+    <h1>Basic Quiz on JavaScript</h1>
+
+    <div id="question-container" class="hidden">
+      <div id="question"></div>
+      <div class="timer">Time Left: <span id="time">10</span>s</div>
+      <div class="progress-bar"><div id="progress-inner"></div></div>
+      <div id="answer-buttons" class="btn-grid"></div>
+      <div id="feedback" class="feedback hidden"></div>
+      <button id="next-btn" class="next-btn">Next</button>
+    </div>
+
+    <div id="start-container">
+      <button id="start-btn" class="start-btn">Start Quiz</button>
+    </div>
+
+    <div id="result" class="hidden"></div>
+    <div id="high-score" class="hidden"></div>
+
+    <!-- Feedback Form -->
+    <div id="feedback-form" class="hidden">
+      <h3>Leave Your Feedback</h3>
+      <textarea id="feedback-input" rows="3" placeholder="Write something..."></textarea><br/>
+      <button id="submit-feedback-btn">Submit Feedback</button>
+      <p id="feedback-message" class="hidden">✅ Thank you for your feedback!</p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
