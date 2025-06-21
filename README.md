@@ -47,3 +47,14 @@ The Quiz App is a frond-end web-based application designed to test and enhance u
 
 **Future Enhancements :**
 Future improvements may include adding multiple difficulty levels, connecting to a database for storing user feedback and scores, introducing a leaderboard system, and improving accessibility for all users.
+
+**OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/f3b1f068-568e-4d66-abda-c91c09d82d36)
+
+![Image](https://github.com/user-attachments/assets/6d733dd2-bafb-4f75-81d3-a713507481b6)
+
+![Image](https://github.com/user-attachments/assets/cc09009b-3933-47f9-b86c-cb3d8fc22378)
+
+![Image](https://github.com/user-attachments/assets/e8042c85-7e53-4943-9a82-9eba64f2c2c4)
+
