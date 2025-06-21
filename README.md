@@ -18,7 +18,7 @@ The Quiz App is a frond-end web-based application designed to test and enhance u
 
 **Technologies Used :**
 
-- HTML is used to create the structure of the webpage, including containers, buttons, and question elements.
+-HTML is used to create the structure of the webpage, including containers, buttons, and question elements.
 
 -CSS handles the visual styling, ensures the layout is clean, centered, and responsive.
 
@@ -39,12 +39,11 @@ The Quiz App is a frond-end web-based application designed to test and enhance u
 
 6. *Feedback Form* : Users can leave feedback after completing the quiz. Their comments are saved in LocalStorage and acknowledged with a confirmation message.
 
-**Working Process:**
-When the quiz starts, questions and answer options are randomized to ensure variety. Users click on answers, and the app provides immediate visual feedback with color-coded buttons. The quiz progresses through the questions automatically, with users navigating using the “Next” button. After all questions are answered or timed out, the final score and high score are shown, followed by an option to submit feedback.
+**Working Process :**
+ When the quiz starts, questions and answer options are randomized to ensure variety. Users click on answers, and the app provides immediate visual feedback with color-coded buttons. The quiz progresses through the questions automatically, with users navigating using the “Next” button. After all questions are answered or timed out, the final score and high score are shown, followed by an option to submit feedback.
 
-**Conclusion**
-This task showcases how basic frond end web development skills can be combined to build a quiz application using javascript where users can answer and recieve instant feedback. It serves educational purposes well and is a great starting point for more complex quiz systems.
+**Conclusion :**
+ This task showcases how basic frond end web development skills can be combined to build a quiz application using javascript where users can answer and recieve instant feedback. It serves educational purposes well and is a great starting point for more complex quiz systems.
 
-**Future Enhancements**
+**Future Enhancements :**
 Future improvements may include adding multiple difficulty levels, connecting to a database for storing user feedback and scores, introducing a leaderboard system, and improving accessibility for all users.
-
